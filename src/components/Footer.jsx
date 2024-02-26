@@ -6,7 +6,9 @@ function Footer() {
           © {new Date().getFullYear()} Copyright Text
           <a
             className="grey-text text-lighten-4 right"
-            href="https://github.com/zhibeky/movies"
+            href="https://github.com/zhibeky/online-shop"
+            rel="noreferrer"
+            target="_blank"
           >
             Repo
           </a>
